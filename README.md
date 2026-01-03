@@ -1,4 +1,4 @@
-# Agentic Framework — Intel Project
+# Agentic Framework - Intel Project
 
 Modular Python-based agentic framework to orchestrate intelligent agents, tasks, and workflows.
 Built with FastAPI and an extensible architecture, with optional Docker infrastructure for Kafka and Airflow integrations.
